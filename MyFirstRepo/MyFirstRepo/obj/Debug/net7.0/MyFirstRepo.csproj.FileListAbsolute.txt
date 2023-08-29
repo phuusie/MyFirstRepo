@@ -1,0 +1,15 @@
+C:\Users\vanph\OneDrive\Dokument\GitHub\MyFirstRepo\MyFirstRepo\MyFirstRepo\bin\Debug\net7.0\MyFirstRepo.exe
+C:\Users\vanph\OneDrive\Dokument\GitHub\MyFirstRepo\MyFirstRepo\MyFirstRepo\bin\Debug\net7.0\MyFirstRepo.deps.json
+C:\Users\vanph\OneDrive\Dokument\GitHub\MyFirstRepo\MyFirstRepo\MyFirstRepo\bin\Debug\net7.0\MyFirstRepo.runtimeconfig.json
+C:\Users\vanph\OneDrive\Dokument\GitHub\MyFirstRepo\MyFirstRepo\MyFirstRepo\bin\Debug\net7.0\MyFirstRepo.dll
+C:\Users\vanph\OneDrive\Dokument\GitHub\MyFirstRepo\MyFirstRepo\MyFirstRepo\bin\Debug\net7.0\MyFirstRepo.pdb
+C:\Users\vanph\OneDrive\Dokument\GitHub\MyFirstRepo\MyFirstRepo\MyFirstRepo\obj\Debug\net7.0\MyFirstRepo.csproj.AssemblyReference.cache
+C:\Users\vanph\OneDrive\Dokument\GitHub\MyFirstRepo\MyFirstRepo\MyFirstRepo\obj\Debug\net7.0\MyFirstRepo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vanph\OneDrive\Dokument\GitHub\MyFirstRepo\MyFirstRepo\MyFirstRepo\obj\Debug\net7.0\MyFirstRepo.AssemblyInfoInputs.cache
+C:\Users\vanph\OneDrive\Dokument\GitHub\MyFirstRepo\MyFirstRepo\MyFirstRepo\obj\Debug\net7.0\MyFirstRepo.AssemblyInfo.cs
+C:\Users\vanph\OneDrive\Dokument\GitHub\MyFirstRepo\MyFirstRepo\MyFirstRepo\obj\Debug\net7.0\MyFirstRepo.csproj.CoreCompileInputs.cache
+C:\Users\vanph\OneDrive\Dokument\GitHub\MyFirstRepo\MyFirstRepo\MyFirstRepo\obj\Debug\net7.0\MyFirstRepo.dll
+C:\Users\vanph\OneDrive\Dokument\GitHub\MyFirstRepo\MyFirstRepo\MyFirstRepo\obj\Debug\net7.0\refint\MyFirstRepo.dll
+C:\Users\vanph\OneDrive\Dokument\GitHub\MyFirstRepo\MyFirstRepo\MyFirstRepo\obj\Debug\net7.0\MyFirstRepo.pdb
+C:\Users\vanph\OneDrive\Dokument\GitHub\MyFirstRepo\MyFirstRepo\MyFirstRepo\obj\Debug\net7.0\MyFirstRepo.genruntimeconfig.cache
+C:\Users\vanph\OneDrive\Dokument\GitHub\MyFirstRepo\MyFirstRepo\MyFirstRepo\obj\Debug\net7.0\ref\MyFirstRepo.dll
